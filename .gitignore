@@ -1,0 +1,12 @@
+*.o
+*.out
+buffer_test
+compile.txt
+
+
+*.raw
+*.txt
+!CmakeLists.txt
+
+build/
+cmake-build-*/
